@@ -1,0 +1,4 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/trafficlight.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/trafficlight_autogen.dir
