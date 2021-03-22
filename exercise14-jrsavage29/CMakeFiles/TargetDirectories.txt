@@ -1,0 +1,6 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/write_file.dir
+/vagrant/CMakeFiles/read_file.dir
+/vagrant/CMakeFiles/write_file_autogen.dir
+/vagrant/CMakeFiles/read_file_autogen.dir
