@@ -1,0 +1,4 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/qt_concurrent.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/qt_concurrent_autogen.dir
