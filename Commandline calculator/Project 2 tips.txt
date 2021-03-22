@@ -1,0 +1,18 @@
+read through the whole command line and check to make sure there is a " " for every odd agrv.
+If not don't process and just complain(e.g: 3 4 * p [is okay] but 3 4 *p [is not okay])
+Use two stacks (one for the operands and the operators)
+EX. 3 4 * 100 - p
+	Should read in 2 numbers first, if it reads and operator before 2 numbers, then error
+	You will pop operands and operators from the stacks
+	First operand is place on the right of the operator, second is placed on the left of the operator
+	the result is then pushed back into the operand stack
+	collect the next operand from the command line and that goes on top
+	you should collect a operation next or else error
+	the same applies with the math and the result is placed in the operand stack
+	
+EX.  3 4 100 * - p
+	100 and 4 are read first and processed with the * first
+	store the result
+	next 3 and 400 are subtracted and result is stored in the operand stack.
+	
+Setprecision should be set to 0 by default
