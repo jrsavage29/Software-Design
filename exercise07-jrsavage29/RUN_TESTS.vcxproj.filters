@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jrsav\Documents\Fall Semester 2019\Applied Software Design\exercise07-jrsavage29\CMakeFiles\cb8fe0c7de0fb13a8f0c7ba1e72947c0\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5344D32C-F0C0-3101-BD26-9A7256974E4D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

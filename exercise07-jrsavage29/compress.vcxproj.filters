@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jrsav\Documents\Fall Semester 2019\Applied Software Design\exercise07-jrsavage29\compress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jrsav\Documents\Fall Semester 2019\Applied Software Design\exercise07-jrsavage29\treap_bst.txx">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jrsav\Documents\Fall Semester 2019\Applied Software Design\exercise07-jrsavage29\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8CE44C3A-7920-3E4B-8CDA-8B3DBC1B2F82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{144AC7D8-2734-3F63-B378-479BDF10155F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
