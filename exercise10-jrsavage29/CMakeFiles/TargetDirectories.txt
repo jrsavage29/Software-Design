@@ -1,0 +1,4 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/ex10.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/ex10_autogen.dir
