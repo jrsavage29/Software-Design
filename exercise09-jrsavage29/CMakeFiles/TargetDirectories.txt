@@ -1,0 +1,4 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/poly.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/poly_autogen.dir
