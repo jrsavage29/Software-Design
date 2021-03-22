@@ -1,0 +1,4 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/widget_events.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/widget_events_autogen.dir

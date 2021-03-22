@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/widget_events.dir/main.cpp.o CMakeFiles/widget_events.dir/widget_events.cpp.o CMakeFiles/widget_events.dir/widget_events_autogen/mocs_compilation.cpp.o  -o widget_events /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.9.5 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.9.5 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.9.5 
