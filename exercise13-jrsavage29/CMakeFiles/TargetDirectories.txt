@@ -1,0 +1,4 @@
+/vagrant/CMakeFiles/rebuild_cache.dir
+/vagrant/CMakeFiles/edit_cache.dir
+/vagrant/CMakeFiles/qt_shared_deque_1.dir
+/vagrant/CMakeFiles/qt_shared_deque_2.dir
